@@ -1,0 +1,28 @@
+body{
+    margin: 0auto;
+}
+header{
+	background-color:black;
+	height:50px;
+    text-align: center;
+    color: white;
+    font-family: sans-serif;
+    padding: 5px;
+    margin-bottom: 0px;
+}
+
+#shopButton{
+    padding:10px;
+    border-radius: 6%;
+    background-color: #99cc00;
+    border: none;
+}
+
+.navix{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+a:link {
+  text-decoration: none;
+}
