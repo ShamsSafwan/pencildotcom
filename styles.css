@@ -13,7 +13,7 @@ header{
 
 #shopButton{
     padding:10px;
-    border-radius: 6%;
+     box-shadow: 5px 4px 4px;
     background-color: #99cc00;
     border: none;
 }
@@ -29,8 +29,7 @@ a:link {
 
 .pencilcard{
     max-width: 200px;
-    box-shadow: 4px 4px #888888;
-    z-index: 
+    
 
 }
 
